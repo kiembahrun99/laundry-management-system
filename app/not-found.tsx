@@ -1,0 +1,1 @@
+export default function NotFound(){ return <div className="d-flex align-items-center justify-content-center" style={{minHeight:"60vh"}}><div className="text-center"><h1 className="display-1 fw-bold text-muted">404</h1><p>Page not found</p><a href="/dashboard" className="btn btn-primary">Go to Dashboard</a></div></div>; }

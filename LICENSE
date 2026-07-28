@@ -1,0 +1,44 @@
+# MarwahBahrun License
+
+Copyright (c) 2026 MarwahBahrun
+
+All rights reserved.
+
+This software and associated documentation files are the property of MarwahBahrun.
+
+## Permissions
+
+- Personal use, learning, and portfolio use are ALLOWED.
+- Modification for personal or internal business use is ALLOWED, as long as the copyright notice "MarwahBahrun" remains intact in source files and documentation.
+
+## Restrictions
+
+- Commercial redistribution, resale, or rebranding of this software as your own product is NOT allowed without written permission from MarwahBahrun.
+- Removing or altering the copyright notice, author name, or license attribution is NOT allowed.
+- Using this codebase to create a competing SaaS product for public resale under a different brand without attribution is NOT allowed.
+- Publication to public marketplaces, template stores, or code marketplaces (e.g., CodeCanyon) is NOT allowed.
+
+## Attribution Requirement
+
+If you use or fork this project, you MUST retain:
+
+- The original LICENSE file
+- Credit to "MarwahBahrun" in README and visible footer/about page
+
+Example attribution:
+```
+Built with Laundry Management System by MarwahBahrun
+https://github.com/kiembahrun99/laundry-management-system
+```
+
+## Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Contact
+
+For commercial licensing, partnerships, or permissions:
+- GitHub: https://github.com/kiembahrun99
+- Author: MarwahBahrun
+
+For permission requests, open an Issue in this repository with subject: "License Request - [Your Purpose]".

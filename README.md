@@ -225,4 +225,11 @@ Copy `.env.example` → `.env` if needed.
 ---
 
 ## 📄 License
-MIT – for single laundry business use (not multi-tenant) as per spec.
+**MarwahBahrun License** – see [LICENSE](./LICENSE)
+
+Copyright (c) 2026 MarwahBahrun. Personal/internal use allowed with attribution retained. Commercial redistribution/resale requires permission.
+
+```
+Built with Laundry Management System by MarwahBahrun
+https://github.com/kiembahrun99/laundry-management-system
+```

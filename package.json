@@ -1,7 +1,14 @@
 {
   "name": "laundry-management-system",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "MarwahBahrun <https://github.com/kiembahrun99>",
+  "description": "Modern Laundry Management System - Next.js 15 SaaS Dashboard by MarwahBahrun",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kiembahrun99/laundry-management-system"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
